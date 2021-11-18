@@ -31,7 +31,7 @@
   - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 전처리 : pandas, numpy
   - 데이터 시각화 : matplotlib, plotly, cufflinks
-+ 📊 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
++ 발표 자료 📊 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 
 ### 팀프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [대회링크](https://dacon.io/competitions/official/235830/overview/description)
@@ -48,7 +48,7 @@
   - 머신러닝 라이브러리 : Pycaret
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
-+ 📊 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
++ 발표 자료 📊 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 + 성과
   - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
   - ✨ Dacon 대회 38등(총 256팀) 기록(0.106439166점. 2021-11-13 21:28:25)
@@ -63,7 +63,7 @@
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 데이터 시각화 : Ploty, Seaborn, matplotlib
-  + 📊 발표 코드 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
+  + 발표 코드 📊 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
 
 ### 파일럿 프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
   + 주제 : 타이타닉 생존자 예측 모델 만들기
@@ -73,7 +73,7 @@
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 방법 알고리즘 : Kfold, LeaveOneOut
-  + 📊 제출 코드 [RandomForest](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [LogisticRegression](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
+  + 제출 코드 📊 [RandomForest](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [LogisticRegression](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
 
 
 ### ✍🏼 수업 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
