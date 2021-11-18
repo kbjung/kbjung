@@ -16,7 +16,7 @@
 ---
 
 
-# 👨🏼‍🏫 데이터 분석 과정 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse)
+# 👨🏼‍🏫 데이터 분석 교육 과정 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse)
 멋쟁이사자처럼 13회차 프로젝트 정리
 
 
