@@ -25,7 +25,7 @@
 + 주제 : 코로나19에 따른 생활 양상 변화
 + 목표 : 웹 크롤링과 데이터 활용을 통한 데이터 처리 능력 향상
 + 기간 : 2021.09.17 ~ 10.08 (3주)
-+ 역할 : 팀장
++ 역할 : 팀장 📢
 + 활용 기술(Python)
   - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 전처리 : pandas, numpy
@@ -37,7 +37,7 @@
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
 + 기간 : 2021.10.15 ~ (진행 중)
-+ 역할 : 부팀장
++ 역할 : 부팀장 📢
 + 활용 기술(Python)
   - 웹 크롤링 : beautifulsoup, selenium
   - 데이터 전처리 : pandas, numpy
@@ -49,7 +49,7 @@
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 + 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 + 성과
-  - 🎉 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
+  - 🎉 13회차 교육 코스 내 최고의 팀 프로젝트 선정 🥇
   - ✨ Dacon 대회 38등(총 256팀) 기록(0.106439166점. 2021-11-13 21:28:25)
 
 
@@ -62,7 +62,7 @@
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 데이터 시각화 : Ploty, Seaborn, matplotlib
-    - 
+
 ### 파일럿 프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
   + 주제 : 타이타닉 생존자 예측 모델 만들기
   + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
