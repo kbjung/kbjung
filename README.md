@@ -1,6 +1,6 @@
-### 🖥빅데이터의 활용으로 편리하고 지속성장 가능한 세상을 만들고 싶은 데이터 엔지니어
+### 🖥 빅데이터의 활용으로 편리하고 지속성장 가능한 세상을 만들고 싶은 데이터 엔지니어
 
-# 📃프로필
+# 📃 프로필
 + 이름 : 김범중
 + 기술
   - Python
@@ -16,11 +16,11 @@
 ---
 
 
-# 데이터 분석 과정 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse)
+# 👨🏼‍🏫 데이터 분석 과정 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse)
 멋쟁이사자처럼 13회차 프로젝트 정리
 
 
-## 팀프로젝트
+## 🤝🏼 팀프로젝트
 ### 팀프로젝트1 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
 + 주제 : 코로나19에 따른 생활 양상 변화
 + 목표 : 웹 크롤링과 데이터 활용을 통한 데이터 처리 능력 향상
@@ -53,7 +53,7 @@
   - Dacon 대회 38등 기록(0.106439166점. 2021-11-13 21:28:25)
 
 
-## 파일럿 프로젝트
+## 👨🏼‍💻 파일럿 프로젝트
 ### 파일럿 프로젝트1 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
   + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
   + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
@@ -72,7 +72,7 @@
     - 검증 방법 알고리즘 : Kfold, LeaveOneOut
 
 
-### 수업 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
+### ✍🏼 수업 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
   + 파이썬 기본 내용(2021.08.27-09.02) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
 
@@ -87,4 +87,4 @@
   + 딥러닝(2021.11.02-11.12) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
 
 ---
-### 코드 연습 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
+### 🤹🏼‍♂️ 코드 연습 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
