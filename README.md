@@ -3,7 +3,7 @@
 # 📃 프로필
 + 이름 : 김범중
 + 기술
-  - Python
+  - 언어 : Python
   - IDE : Visual Studio code, Jupyter Notebook, Pycharm
   - 데이터 수집 : Selenium, BeautifulSoup
   - 데이터 전처리 : Pandas, Numpy
