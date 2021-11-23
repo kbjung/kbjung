@@ -17,7 +17,7 @@
 ---
 
 
-# 🏎 Dacon
+# 🏎 Dacon [상세내용](https://github.com/kbjung/Dacon)
  데이콘 대회 프로젝트
 
 
