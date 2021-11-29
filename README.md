@@ -21,7 +21,7 @@
  데이콘 대회 프로젝트
 
 
-## 🤝🏼 팀프로젝트1(진행중...) [상세내용](https://github.com/kbjung/Dacon/tree/main/TP1)
+## 🤝🏼 팀프로젝트1(종료) [상세내용](https://github.com/kbjung/Dacon/tree/main/TP1)
   + 대회 : 주식 종료 가격 예측 경진대회 [대회 링크](https://dacon.io/competitions/official/235857/overview/description)
   + 목표 : 데이터 전처리, 분석, 머신러닝 활용 기술 향상
   + 주제 : KOSPI-200과 KOSDAQ-150의 주어진 기간에 마지막으로 거래된 가격(종가)를 예측
@@ -29,6 +29,9 @@
   + 활용 기술 🔧
     - 데이터 수집 : pandas, financedatareader
     - 데이터 탐색 : seaborn, matplotlib
+    - 머신 러닝 모델 및 라이브러리 : Pycaret, LinearRegression, Ridge, Catboost 등
+    - 평가지표 : MSE, RMSE, R2, MAE, NMAE(대회점수지표), NMAE*100(대회점수지표)
+
 
 
 ---
@@ -51,7 +54,7 @@
 + 발표 자료 📊 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 + 전체 팀 발표 자료 모음 [link](https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/)
 
-### 팀프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+### 팀프로젝트2(진행 중...) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [대회링크](https://dacon.io/competitions/official/235830/overview/description)
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
