@@ -74,6 +74,7 @@
 + 성과
   - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
   - ✨ Dacon 대회 **39등**(총 259팀) 기록(**0.1032155541점**. 2021-12-02 10:57:53)
+  - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
 
 
 ## ✈ 파일럿 프로젝트
