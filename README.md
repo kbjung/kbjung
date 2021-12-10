@@ -21,6 +21,19 @@
  데이콘 대회 프로젝트
 
 
+## 🤝🏼 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어))
++ 대회 : 잡케어 추천 알고리즘 경진대회 [[대회 링크]](https://dacon.io/competitions/official/235863/overview/description)
++ 목표 : 데이터 전처리, 분석, 머신러닝 활용 기술 향상
++ 주제 : 구직자의 이력서를 인공지능 기술로 직무역량을 자동 분석하여 개인별 맞춤형 컨텐츠 추천 모델 구축
++ 기간 : 2021년 12월 6일 (19:00) ~ 2022년 1월 28일
++ 팀원 : 최두호(팀장), 김범중, 김진연
++ 활용 기술 🔧
+  - 데이터 수집 : 
+  - 데이터 탐색 : 
+  - 머신 러닝 모델 및 라이브러리 : 
+  - 평가지표 : F1-score(대회평가지표)
+
+
 ## 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1)
 + 대회 : 주식 종료 가격 예측 경진대회 [[대회 링크]](https://dacon.io/competitions/official/235857/overview/description)
 + 목표 : 데이터 전처리, 분석, 머신러닝 활용 기술 향상
@@ -54,7 +67,7 @@
 + 발표 자료 📊 [[PDF]](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 + 전체 팀 발표 자료 모음 [[link]](https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/)
 
-### 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+### 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
