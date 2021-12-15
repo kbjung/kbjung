@@ -30,7 +30,7 @@
 + 활용 기술 🔧
   - 데이터 수집 : 
   - 데이터 탐색 : matplotlib
-  - 머신 러닝 모델 및 라이브러리 : pycaret, rf, cat
+  - 머신 러닝 모델 및 라이브러리 : pycaret, rf, cat, nb
   - 평가지표 : F1-score(대회평가지표)
 
 
@@ -71,7 +71,7 @@
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
-+ 기간 : 2021.10.15 ~ (진행 중)
++ 기간 : 2021.10.15 ~ 2021.12.10
 + 역할 : 부팀장 📢
 + 활용 기술(Python) 🔧
   - 웹 크롤링 : beautifulsoup, selenium
