@@ -5,13 +5,12 @@
 + 이름 : 김범중
 + 기술 🔧
   - 언어 : Python
-  - IDE : Jupyter Notebook, Visual Studio code, Pycharm
+  - IDE : Jupyter Notebook, Visual Studio code
   - 데이터 수집 : Selenium, BeautifulSoup
   - 데이터 전처리 : Pandas, Numpy
-  - 데이터 시각화 : matplotlib, Seaborn, plotly, cufflinks
+  - 데이터 시각화 : matplotlib, Seaborn
   - 머신러닝 알고리즘 : Linear, Lasso, Ridge, DecisionTree, RandomForest, Xgboost, Lightgbm, Catboost, Pycaret
-  - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile, Labelencoding, OneHotEncoding
-  - 딥러닝 알고리즘 : tensorflow, keras, CNN, RNN, GAN
+  - 특성 엔지니어링 : PolynomialFeatures, Labelencoding
 
 
 ---
@@ -30,7 +29,7 @@
 + 활용 기술 🔧
   - 데이터 수집 : 
   - 데이터 탐색 : matplotlib
-  - 머신 러닝 모델 및 라이브러리 : pycaret, rf, cat, nb
+  - 머신 러닝 모델 및 라이브러리 : pycaret(classification), randomforest, catboost, naive bayes
   - 평가지표 : F1-score(대회평가지표)
 + 점수 기록 : 스프레트시트 [[링크]](https://docs.google.com/spreadsheets/d/10Bz8g40J4Zkls3ohjEG3HL_vR_lth4rkqEX6XCwhgPM/edit#gid=0)
 
@@ -44,7 +43,7 @@
 + 활용 기술 🔧
   - 데이터 수집 : pandas, financedatareader
   - 데이터 탐색 : seaborn, matplotlib
-  - 머신 러닝 모델 및 라이브러리 : Pycaret, LinearRegression, Ridge, Catboost 등
+  - 머신 러닝 모델 및 라이브러리 : Pycaret(regression), LinearRegression, Ridge, Catboost 등
   - 평가지표 : MSE, RMSE, R2, MAE, NMAE(대회점수지표), NMAE*100(대회점수지표)
 
 
@@ -80,7 +79,7 @@
   - 데이터 확인 및 분석(EDA) : matplotlib, seaborn, korean_Lunar_calendar(음력변환)
   - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
   - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
-  - 머신러닝 라이브러리 : Pycaret
+  - 머신러닝 라이브러리 : Pycaret(regression)
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 + 발표 자료 📊 [[Notion]](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
