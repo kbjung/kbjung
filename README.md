@@ -14,29 +14,29 @@
 
 ---
 
-# 🏎 Dacon [[상세내용]](https://github.com/kbjung/Dacon)
+## 🏎 Dacon [[상세내용]](https://github.com/kbjung/Dacon)
  데이콘 대회 프로젝트
 
-## 🤝🏼 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어))
-## 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1)
++ 🤝🏼 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어))
++ 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1)
 
 ---
 
-# 👨🏼‍🏫 데이터 분석 교육 과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse)
+## 👨🏼‍🏫 데이터 분석 교육 과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse)
 멋쟁이사자처럼 13회차 프로젝트 정리
 
-## 🤝🏼 팀프로젝트
-### 팀프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-### 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+### 🤝🏼 팀프로젝트
++ 팀프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
++ 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
-## ✈ 파일럿 프로젝트
-### 파일럿 프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
-### 파일럿 프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
-## ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
+### ✈ 파일럿 프로젝트
++ 파일럿 프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
++ 파일럿 프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
+### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
 ---
-# JAVA 공부
-## JAVA1 수업 [[상세내용]](https://github.com/kbjung/java_class1)
+## JAVA 공부
+### JAVA1 수업 [[상세내용]](https://github.com/kbjung/java_class1)
 ---
 ### 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
 
