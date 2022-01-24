@@ -29,7 +29,10 @@
 
 ### 🤝🏼 팀프로젝트
 + 팀프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
+  - 기간 : 2021.09.17 ~ 10.08
 + 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+  - 기간 : 2021.10.11 ~ 2021.12.10 23:00
+  - 성과 : 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정. ✨ 대회 22등(총 259팀) 기록.
 
 ### ✈ 파일럿 프로젝트
 + 파일럿 프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
