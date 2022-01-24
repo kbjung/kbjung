@@ -18,6 +18,7 @@
  데이콘 대회 프로젝트
 
 + 🤝🏼 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어))
+  - 기간 : 2021년 12월 6일 (19:00) ~ 2022년 1월 28일
 + 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1)
 
 ---
