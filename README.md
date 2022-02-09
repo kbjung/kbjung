@@ -41,6 +41,7 @@
 
 ### ✈ 파일럿 프로젝트
 + 파일럿 프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
+  - 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기
 + 파일럿 프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
