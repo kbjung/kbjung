@@ -51,6 +51,9 @@
 ## JAVA 공부
 + JAVA1 수업 [[상세내용]](https://github.com/kbjung/java_class1)
 ---
+## Javascript 강좌
++ 바닐라 JS로 크롬 앱 만들기 [[상세보기]](https://github.com/kbjung/JS/tree/master/momentum)
+
 ### 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
 python 코드 
 
