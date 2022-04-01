@@ -18,7 +18,7 @@
 원트리즈 뮤직
 
 ### Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling)
-2022년 게시글 정보 수집
+2022년 게시글 정보 수집, 사진 다운.
 
 ---
 
