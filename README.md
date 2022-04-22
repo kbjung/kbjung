@@ -14,7 +14,7 @@
 
 ---
 
-## 🚗 AI_SoCar [[폴더]](https://github.com/kbjung/AI_SoCar)
+## 🚗 AI_SoCar [[]](https://github.com/kbjung/AI_SoCar)
 쏘카 AI 엔지니어 육성 부트캠프 2기
 + 기간 : 2022.04.20 ~ 2022.07.22(13주)
 
