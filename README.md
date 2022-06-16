@@ -23,9 +23,9 @@
 ## 💼 Wantreez [[상세내용]](https://github.com/kbjung/Wantreez)
 원트리즈 뮤직(2022.03.02 ~ 2022.06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling)
-  - 2022년 경기도 해외 SNS 게시글 정보 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido)
-  - 2022년 음원 사이트 Top100 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music)
-  - 인천시 이벤트 댓글 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon)
+  - 2022년 경기도 해외 SNS 게시글 데이터 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido)
+  - 2022년 음원 사이트 Top100 & 소셜 미디어 데이터 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music)
+  - 인천시 이벤트 댓글 데이터 수집 [[폴더]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon)
 
 ---
 
