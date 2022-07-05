@@ -8,7 +8,7 @@
   - IDE : Jupyter Notebook, Visual Studio code
   - 데이터 수집 : Selenium, BeautifulSoup
   - 데이터 전처리 : Pandas, Numpy
-  - 데이터 시각화 : matplotlib, Seaborn
+  - 데이터 시각화 : Matplotlib, Seaborn
   - 머신러닝 알고리즘 : Linear, Lasso, Ridge, DecisionTree, RandomForest, Xgboost, Lightgbm, Catboost, Pycaret
   - 특성 엔지니어링 : PolynomialFeatures, LabelEncoding
 
