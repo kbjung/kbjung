@@ -17,7 +17,7 @@
 ## 💼 Wantreez [[상세내용]](https://github.com/kbjung/Wantreez)
 원트리즈 뮤직(2022.03.02 ~ 2022.06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling)
-  - 음원사재기 모니터링 / 수행 팀 리더 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music)
+  - 음원사재기 모니터링 / 수행 팀 리더 📢 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music)
   - 인천시 소셜미디어 이벤트 게시글 데이터 수집 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon)
   - 경기도 해외 SNS 게시글 데이터 수집 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido)
   
@@ -29,7 +29,7 @@
 + 🤝🏼 팀프로젝트2 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어))
   - 잡케어 추천 알고리즘 경진대회(Dacon)
   - 기간 : 2021.12.06 (19:00) ~ 2022.01.28
-  - 역할 : 팀장
+  - 역할 : 팀장 📢
   - 성과 : ✨189등(총 1,335명)
 + 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1)
   - 주식 종료 가격 예측 경진대회(Dacon)
@@ -50,12 +50,12 @@
 + 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
   - 가스공급량 수요예측 모델개발(Dacon)
   - 기간 : 2021.10.11 ~ 2021.12.10 23:00
-  - 역할 : 부팀장
+  - 역할 : 부팀장 📢
   - 성과 : 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정. ✨ 대회 22등(총 488명 중) 기록.
 + 팀프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
   - 코로나19에 따른 생활 양상 변화
   - 기간 : 2021.09.17 ~ 2021.10.08
-  - 역할 : 팀장
+  - 역할 : 팀장 📢
 
 ### ✈ 파일럿 프로젝트
 + 파일럿 프로젝트1(2021.09.17) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
