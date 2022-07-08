@@ -44,7 +44,7 @@
 + 기간 : 2022.04.20 ~ 2022.07.22(13주)
 
 ## 👨🏼‍🏫 멋쟁이사자처럼 AI 통합과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse)
-멋쟁이사자처럼 13회차 프로젝트 정리
+멋쟁이사자처럼 AI스쿨 4기 13회차 프로젝트 정리
 
 ### 🤝🏼 팀프로젝트
 + 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
