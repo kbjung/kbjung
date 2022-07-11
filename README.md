@@ -65,6 +65,3 @@
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 - 멋쟁이사자처럼 13회차 교육 내용 정리
 - 기간 : 2021.08.23-2021.11.12
-
-### 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
-+ python 코드 
