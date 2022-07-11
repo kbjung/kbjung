@@ -13,7 +13,7 @@
   - 특성 엔지니어링 : PolynomialFeatures, LabelEncoding
 
 ---
-
+# 💼 Work
 ## 💼 Wantreez [[상세내용]](https://github.com/kbjung/Wantreez)
 원트리즈 뮤직(2022.03.02 ~ 2022.06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling)
@@ -22,7 +22,7 @@
   - 경기도 해외 SNS 게시글 데이터 수집 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido#readme)
   
 ---
-
+# 🏆 대회
 ## 🏎 Dacon [[상세내용]](https://github.com/kbjung/Dacon)
  데이콘 대회 프로젝트
 
@@ -37,13 +37,13 @@
   - 성과 : ✨134등(총 672명)
 
 ---
-# 교육
+# 👨‍🏫 교육
 
 ## 🚗 AI_SoCar [[상세내용]](https://github.com/kbjung/AI_SoCar)
 쏘카 AI 엔지니어 육성 부트캠프 2기
 + 기간 : 2022.04.20 ~ 2022.07.22(13주)
 
-## 👨🏼‍🏫 멋쟁이사자처럼 AI 통합과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse)
+## 👨‍🎓 멋쟁이사자처럼 AI 통합과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse)
 멋쟁이사자처럼 AI스쿨 4기 13회차 프로젝트 정리
 
 ### 🤝🏼 팀프로젝트
