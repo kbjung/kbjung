@@ -64,4 +64,3 @@
 + 파일럿 프로젝트2(2021.10.21) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)#readme)
   - 타이타닉 생존자 예측 모델 만들기
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass#readme)
-- 멋쟁이사자처럼 13회차 교육 내용 정리
