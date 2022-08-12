@@ -69,3 +69,4 @@
 # 🤹🏼‍♂️ 코드연습
 + 멋쟁이사자처럼 교육 코드 연습 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice#readme)
 + 점프 투 파이썬 연습 [[상세내용]](https://github.com/kbjung/Jump_to_Python#readme)
++ 혼자 공부하는 SQL [[상세내용]](https://github.com/kbjung/SQL/tree/main/MySQL)
