@@ -4,7 +4,7 @@
 # 📃 프로필
 + 이름 : 김범중
 + 기술 🔧
-  - 언어 : Python
+  - 언어 : Python, SQL
   - IDE : Jupyter Notebook, Visual Studio code
   - 데이터 수집 & 전처리 : Pandas, Numpy, Selenium, BeautifulSoup, Requests
   - 데이터 시각화 : Matplotlib, Seaborn
