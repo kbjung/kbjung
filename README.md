@@ -70,6 +70,6 @@
 + 멋쟁이사자처럼 교육 코드 연습 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice#readme)
 + 점프 투 파이썬 연습 [[상세내용]](https://github.com/kbjung/Jump_to_Python#readme)
 + 혼자 공부하는 SQL [[상세내용]](https://github.com/kbjung/SQL/tree/main/MySQL)
-+ [private]코딩 테스트 [[상세내용]](https://github.com/kbjung/coding_test#readme)
++ **[private]**코딩 테스트 [[상세내용]](https://github.com/kbjung/coding_test#readme)
   - 백준 [[상세내용]](https://github.com/kbjung/coding_test/tree/main/baekjoon#readme)
   - 프로그래머스 [[상세내용]](https://github.com/kbjung/coding_test/tree/main/programmers#readme)
