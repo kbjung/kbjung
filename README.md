@@ -18,7 +18,7 @@
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - 기간 : 2022.04 ~ 05
-    - 역할 : 수행 팀 리더 📢
+    - 역할 : 데이터 분석 팀 리더 📢
       - 데이터 수집&분석 수행 및 검토, 보고서 작성 및 검토
     - 성과
       - 업무 프로세스 구축
