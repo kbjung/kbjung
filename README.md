@@ -14,7 +14,7 @@
 ---
 # 💼 Work
 ## 💼 원트리즈 뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
-인턴(2022.03.02 ~ 2022.06.01)
+인턴(2022.03.02 ~ 06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - 기간 : 2022.04 ~ 05
