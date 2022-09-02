@@ -16,9 +16,28 @@
 ## 💼 원트리즈 뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
 인턴(2022.03.02 ~ 2022.06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
-  - 음원사재기 모니터링 / 수행 팀 리더 📢 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
+  - 음원사재기 모니터링 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
+    - 기간 : 2022.04 ~ 2022.05
+    - 역할 : 수행 팀 리더 📢
+      - 일정 배분, 데이터 수집&분석 수행 및 검토, 보고서 작성 및 검토, 의사소통 및 의견 조율
+    - 성과
+      - 업무 프로세스 구축
+      - 국내외 음원 사이트 순위 데이터 자동 수집 및 가공 프로그램 완성
+      - 데이터 분석 및 보고서 내용 출력 체계화
   - 인천시 소셜미디어 이벤트 게시글 데이터 수집 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon#readme)
+    - 기간 : 2022.04 ~ 05
+    - 역할 : 데이터 수집 및 가공
+    - 성과
+      - 네이버 블로그, 페이스북, 인스타그램 이벤트 게시글 댓글 데이터 수집 및 가공 프로그램 완성
+      - 업무 효율성 향상
+      - 외주 비용 절약    
   - 경기도 해외 SNS 게시글 데이터 수집 [[상세설명]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido#readme)
+    - 기간 : 2022.03 ~ 2022.04
+    - 역할 : 데이터 수집 및 백업
+    - 성과
+      - 구글 블로그, 페이스북, 인스타그램, 웨이보 게시글 데이터 수집 및 가공 프로그램 완성
+      - 보고서 작성 시간 1/3로 절약 및 데이터 업데이트 효율 향상
+      - 게시글용 사진 자동 다운 프로그램 작성으로 업무 효율성 비약적 향상
   
 ---
 # 🏆 대회
@@ -63,9 +82,9 @@
 
 ### ✈ 파일럿 프로젝트
 + 파일럿 프로젝트1(2021.09.17) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project)#readme)
-  - 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기
+  - 내용 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기
 + 파일럿 프로젝트2(2021.10.21) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)#readme)
-  - 타이타닉 생존자 예측 모델 만들기
+  - 내용 : 타이타닉 생존자 예측 모델 만들기
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass#readme)
 
 ---
