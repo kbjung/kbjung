@@ -78,7 +78,7 @@
   - 코로나19에 따른 생활 양상 변화
   - 기간 : 2021.09.17 ~ 10.08
   - 역할 : 팀장 📢
-    - 전체적인 역할 분담 및 자료 확인, 코드 작성.
+    - 전체적인 역할 분담, 자료 수집 및 확인, 분석.
 
 ### ✈ 파일럿 프로젝트
 + 파일럿 프로젝트1(2021.09.17) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project)#readme)
