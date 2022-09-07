@@ -61,10 +61,12 @@
 ## 🚗 AI_SoCar [[상세내용]](https://github.com/kbjung/AI_SoCar#readme)
 쏘카 AI 엔지니어 육성 부트캠프 2기
 + 기간 : 2022.04.20 ~ 07.22
++ 내용 : python, machine learning, deep learning, 프로젝트
 
 ## 🦁 멋쟁이사자처럼 AI 통합과정 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse#readme)
 멋쟁이사자처럼 AI스쿨 4기 13회차 정리
 + 기간 : 2021.08.23 - 11.12
++ 내용 : python, hteml, css, javascript, crawling, machine learning, deep learning(입문), 프로젝트, 대회
 
 ### 🤝🏼 팀프로젝트
 + 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02#readme)
