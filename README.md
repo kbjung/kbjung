@@ -90,7 +90,7 @@
 
 ---
 
-# 🤹🏼‍♂️ 코드연습
+# 🤹🏼‍♂️ 공부 [[상세내용]](https://github.com/kbjung/study#readme)
 + ⏳ 코딩 테스트 [[상세내용]](https://github.com/kbjung/study/tree/main/coding_test#readme)
 + 혼자 공부하는 SQL [[상세내용]](https://github.com/kbjung/study/tree/main/SQL#readme)
 + 점프 투 파이썬 연습 [[상세내용]](https://github.com/kbjung/study/tree/main/Jump_to_Python#readme)
