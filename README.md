@@ -90,12 +90,15 @@
 
 ---
 
-# 🤹🏼‍♂️ 공부 [[상세내용]](https://github.com/kbjung/study#readme)
-+ ⏳ 코딩 테스트 [[상세내용]](https://github.com/kbjung/study/tree/main/coding_test#readme)
-+ SQL [[상세내용]](https://github.com/kbjung/study/tree/main/SQL#readme)
-+ 점프 투 파이썬 연습 [[상세내용]](https://github.com/kbjung/study/tree/main/Jump_to_Python#readme)
-+ Introduction_to_ML_with_Python(책 : 파이썬 라이브러리를 활용한 머신러닝)[[상세내용]](https://github.com/kbjung/study/tree/main/Introduction_to_ML_with_Python#readme)
-+ 멋쟁이사자처럼 교육 코드 연습 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice#readme)
+# 📖 공부 [[상세내용]](https://github.com/kbjung/Study#readme)
+### ⏳ coding_test [[상세보기]](https://github.com/kbjung/Study/tree/main/coding_test#readme)
++ 백준 [[상세내용]](https://github.com/kbjung/Study/tree/main/coding_test/baekjoon#readme)
++ 프로그래머스 [[상세내용]](https://github.com/kbjung/Study/tree/main/coding_test/programmers#readme)
+### SQL [[상세보기]](https://github.com/kbjung/study/tree/main/SQL#readme)
++ 혼자 공부하는 SQL [[상세내용]](https://github.com/kbjung/Study/tree/main/SQL/MySQL#readme)
+### Jump_to_Python [[상세보기]](https://github.com/kbjung/Study/tree/main/Jump_to_Python#readme)
++ 자료 링크 [[link]](https://wikidocs.net/book/1)
+### Introduction_to_ML_with_Python [[상세보기]](https://github.com/kbjung/Study/tree/main/Introduction_to_ML_with_Python#readme)
 
 
 
