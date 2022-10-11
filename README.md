@@ -91,8 +91,8 @@
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass#readme)
 
 ---
-
-# 📖 공부 [[상세내용]](https://github.com/kbjung/Study#readme)
+# 🔒 private
+## 📖 공부 [[상세내용]](https://github.com/kbjung/Study#readme)
 + ⏳ AI [[상세내용]](https://github.com/kbjung/Study/tree/main/AI)
   - pytorch [[상세내용]](https://github.com/kbjung/Study/blob/main/AI/README.md)
 + ⏳ coding_test [[상세내용]](https://github.com/kbjung/Study/tree/main/coding_test#readme)
