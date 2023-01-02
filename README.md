@@ -13,6 +13,10 @@
 # 💼 Work
 ## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech)
 - 2022.11.01~
+### 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle)
+- 2022.11.04 ~
+### 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/car_big_data_2)
+- 2022.11.25 ~ 
 
 
 ## 💼 (주)원트리즈뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
