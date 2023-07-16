@@ -29,7 +29,9 @@
 ### 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle)
 - 기간 : 2022.11.04 ~ stop
 + 활용라이브러리 : pandas, numpy, os, tqdm
-
+- 자동차 주소 데이터 전처리
+- 자동차 지역별 현황
+- 충전소 대수, 충전량 현황
 
 
 ## 💼 (주)원트리즈뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
