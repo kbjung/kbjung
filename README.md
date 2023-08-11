@@ -12,7 +12,7 @@
 ---
 # 💼 Work
 
-## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech)
+## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
 - 2022.11.01~ 현재(약 7개월)
 ### ⏳ 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/car_big_data_2#readme)
 - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
