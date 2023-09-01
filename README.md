@@ -32,6 +32,10 @@
 - 자동차 지역별 현황
 - 충전소 대수, 충전량 현황
 
+### [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/seoul_lab#readme)
+- 활용 라이브러리 : pandas, numpy, os, datetime
+- 전 등급 차량 배출가스 배출량 계산(CAPSS식 적용)
+
 ### [환경부] 내연기관 프리존(Free-zone) 시범사업 운행제한 확대방안 연구 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle#readme)
 + 활용 라이브러리 : pandas, numpy, os, datetime
 - 자동차 현황(연료, 배출가스등급별)
