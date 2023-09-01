@@ -27,7 +27,6 @@
 - item 3 : 무공해차 전환 및 저공해조치 우선차량 선별
 
 ### [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle)
-- 기간 : 2022.11.04 ~ stop
 + 활용라이브러리 : pandas, numpy, os, tqdm
 - 자동차 주소 데이터 전처리
 - 자동차 지역별 현황
