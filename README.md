@@ -16,19 +16,18 @@
 - 2022.11.01 ~ 현재
 ### ⏳ [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/car_big_data_2#readme)
 - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
-+ 활용 라이브러리 : pandas, numpy, os, glob, re, datetime, tqdm
-- 과제1 "4등급차 조기폐차 및 운행제한 확대 대비 정책자료 생성"
-- 과제3 "무공해차 전환 가속화 및 내연기관차 퇴출시나리오 도출"
-
+- 활용 라이브러리 : pandas, numpy, os, glob, re, datetime, tqdm
+- 과제1 : "4등급차 조기폐차 및 운행제한 확대 대비 정책자료 생성"
+- 과제3 : "무공해차 전환 가속화 및 내연기관차 퇴출시나리오 도출"
 
 ### [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle)
-+ 활용 라이브러리 : pandas, numpy, os, tqdm
+- 활용 라이브러리 : pandas, numpy, os, tqdm
 - 자동차 주소 데이터 전처리
 - 자동차 지역별 현황
 - 충전소 대수, 충전량 현황
 
 ### [환경부] 내연기관 프리존(Free-zone) 시범사업 운행제한 확대방안 연구 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/low_gas_vehicle#readme)
-+ 활용 라이브러리 : pandas, numpy, os, datetime
+- 활용 라이브러리 : pandas, numpy, os, datetime
 - 자동차 현황(연료, 배출가스등급별)
 
 ### [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/seoul_lab#readme)
