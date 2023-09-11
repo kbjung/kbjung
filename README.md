@@ -13,7 +13,7 @@
 # 💼 Work
 
 ## 💼 🏃‍♂️ (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
-- 2022.11.01 ~ 현재
+- 2022.11.01 ~ 재직 중
 
 ### ⏳[KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/multi_road#readme)
 - 활용 라이브러리 : pandas, numpy, os, datetime, time, matplotlib.pyplot
