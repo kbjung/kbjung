@@ -12,7 +12,7 @@
 ---
 # 💼 Work
 
-## 💼 🏃‍♂️ (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
+## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
 - 2022.11.01 ~ 재직 중
 
 ### ⏳ 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
