@@ -38,7 +38,7 @@
   - 자동차 현황(연료, 배출가스등급별)
 
 + [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
-  - 활용 라이브러리 : pandas, numpy, os, tqdm
+  - 활용 라이브러리 : pandas, numpy, os
   - 자동차 주소 데이터 전처리
   - 자동차 지역별 현황
   - 충전소 대수, 충전량 현황
