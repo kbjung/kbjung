@@ -17,7 +17,7 @@
 
 ### ⏳ 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
 + ⏳ [KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing#readme)
-  - 라이브러리 : pandas, numpy, os, datetime, time, matplotlib.pyplot
+  - python 라이브러리 : pandas, numpy, os, datetime, time, matplotlib.pyplot
   - 내용
     - 원격/통합 측정 전체 차량 통계
     - 원격/통합 측정 경유차량의 매연 및 정밀검사 분석
@@ -27,7 +27,7 @@
 
 ### ✔ 완료 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete)
 + [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/seoul_lab#readme)
-  - 라이브러리 : pandas, numpy, os, datetime
+  - python 라이브러리 : pandas, numpy, os, datetime
   - 내용
     - 전 등급 차량 배출가스 배출량 계산(CAPSS식 적용)
 
@@ -40,12 +40,12 @@
     - 차량 현황 예측
 
 + [환경부] 내연기관 프리존(Free-zone) 시범사업 운행제한 확대방안 연구 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
-  - 라이브러리 : pandas, numpy, os, datetime
+  - python 라이브러리 : pandas, numpy, os, datetime
   - 내용
     - 자동차 현황(연료, 지역, 배출가스등급별)
 
 + [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
-  - 라이브러리 : pandas, numpy, os
+  - python 라이브러리 : pandas, numpy, os
   - 내용
     - 자동차 주소 데이터 전처리
     - 자동차 지역별 현황
@@ -55,6 +55,7 @@
 인턴(2022.03.02 ~ 06.01)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
+    - python 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
     - 기간 : 2022.04 ~ 05
     - 역할 : 데이터 분석 팀 리더 📢
       - 데이터 수집&분석 수행 및 검토, 보고서 작성 및 검토
@@ -63,6 +64,7 @@
       - 국내외 음원 사이트 순위 데이터 자동 수집 및 가공 프로그램 완성
       - 데이터 분석 및 보고서 작성
   - 인천시 소셜미디어 이벤트 게시글 데이터 수집 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon#readme)
+    - python 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
     - 기간 : 2022.04 ~ 05
     - 역할 : 데이터 수집 및 가공
     - 성과
@@ -70,6 +72,7 @@
       - 업무 효율성 향상
       - 외주 비용 절약    
   - 경기도 해외 SNS 게시글 데이터 수집 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido#readme)
+    - python 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
     - 기간 : 2022.03 ~ 04
     - 역할 : 데이터 수집 및 백업
     - 성과
