@@ -87,12 +87,14 @@
 
 + 🤝🏼 팀프로젝트2 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP2(잡케어)#readme)
   - 잡케어 추천 알고리즘 경진대회(Dacon)
+  - python 라이브러리 : pandas, seaborn, matplotlib, Pycaret, LinearRegression, Ridge, Catboost 등
   - 기간 : 2021.12.06 (19:00) ~ 2022.01.28
   - 역할 : 팀장 📢
     - 데이터 전처리 및 분석, 모델 선정 및 개선, 자체 평가 지표 작성, 결과 도출
   - 성과 : ✨189등(총 1,335명), 상위 26%
 + 🤝🏼 팀프로젝트1 [[상세내용]](https://github.com/kbjung/Dacon/tree/main/TP1#readme)
   - 주식 종료 가격 예측 경진대회(Dacon)
+  - python 라이브러리 : pandas, financedatareader, seaborn, matplotlib, Pycaret, LinearRegression, Ridge, Catboost 등
   - 기간 : 2021.11.10 ~ 11.29 10:00 am
   - 역할 : 데이터 수집 및 전처리, 분석, 모델 생성 및 개선, 결과 도출
   - 성과 : ✨134등(총 672명), 상위 66%
