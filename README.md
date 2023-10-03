@@ -42,7 +42,7 @@
 + [환경부] 내연기관 프리존(Free-zone) 시범사업 운행제한 확대방안 연구 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
   - 라이브러리 : pandas, numpy, os, datetime
   - 내용
-    - 자동차 현황(연료, 배출가스등급별)
+    - 자동차 현황(연료, 지역, 배출가스등급별)
 
 + [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
   - 라이브러리 : pandas, numpy, os
