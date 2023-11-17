@@ -19,7 +19,7 @@
 + ⏳ [KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing#readme)
   - 역할
     - 데이터 전처리, 분석
-    - 커뮤니케이션, 이슈 대응응
+    - 커뮤니케이션, 이슈 대응
   - python 라이브러리 : pandas, numpy, os, datetime, time, matplotlib.pyplot
   - 내용
     - 원격/통합 측정 전체 차량 통계
