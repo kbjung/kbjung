@@ -17,22 +17,34 @@
 
 ### ⏳ 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
 + ⏳ [KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing#readme)
+  - 역할
+    - 데이터 전처리, 분석
+    - 커뮤니케이션, 이슈 대응응
   - python 라이브러리 : pandas, numpy, os, datetime, time, matplotlib.pyplot
   - 내용
     - 원격/통합 측정 전체 차량 통계
     - 원격/통합 측정 경유차량의 매연 및 정밀검사 분석
     - 원격/통합 측정 경유차량의 등록정보, 제원정보 활용 분석
 + ⏳ [한국환경공단] 자동차 환경 빅데이터 구축 3차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing/car_big_data3)
+  - 역할
+    - 데이터 전처리, 분석
+    - 보고서 작성
+    - 커뮤니케이션, 이슈 대응
 
 
 ### ✔ 완료 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete)
 + [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/seoul_lab#readme)
+  - 역할 : 데이터 전처리 및 분석, 내용 설명 및 논의
   - python 라이브러리 : pandas, numpy, os, datetime
   - 내용
     - 전 등급 차량 배출가스 배출량 계산(CAPSS식 적용)
 
 + [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car_big_data2#readme)
   - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
+  - 역할
+    - 데이터 전처리 및 분석
+    - 분석 시나리오 논의 및 보고서 작성
+    - 커뮤니케이션, 이슈 대응
   - 라이브러리 : pandas, numpy, os, glob, re, datetime, tqdm
   - 내용
     - 분류별 차량 현황 분석, 배출가스 계산, 지역별 차량 현황 분석
@@ -40,11 +52,13 @@
     - 차량 현황 예측
 
 + [환경부] 내연기관 프리존(Free-zone) 시범사업 운행제한 확대방안 연구 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
+  - 역할 : 데이터 전처리 및 분석, 아이디어 논의
   - python 라이브러리 : pandas, numpy, os, datetime
   - 내용
     - 자동차 현황(연료, 지역, 배출가스등급별)
 
 + [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
+  - 역할 : 데이터 전처리 및 분석
   - python 라이브러리 : pandas, numpy, os
   - 내용
     - 자동차 주소 데이터 전처리
@@ -66,7 +80,7 @@
   - 인천시 소셜미디어 이벤트 게시글 데이터 수집 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/incheon#readme)
     - python 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
     - 기간 : 2022.04 ~ 05
-    - 역할 : 데이터 수집 및 가공
+    - 역할 : 데이터 수집, 전처리, 분석, 보고서 작성
     - 성과
       - 네이버 블로그, 페이스북, 인스타그램 이벤트 게시글 댓글 데이터 수집 및 가공 프로그램 완성
       - 업무 효율성 향상
@@ -74,7 +88,7 @@
   - 경기도 해외 SNS 게시글 데이터 수집 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/gyeonggido#readme)
     - python 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
     - 기간 : 2022.03 ~ 04
-    - 역할 : 데이터 수집 및 백업
+    - 역할 : 데이터 수집, 전처리, 분석, 백업
     - 성과
       - 구글 블로그, 페이스북, 인스타그램, 웨이보 게시글 데이터 수집 및 가공 프로그램 완성
       - 보고서 작성 시간 1/3로 절약 및 데이터 업데이트 효율 향상
