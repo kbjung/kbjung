@@ -45,8 +45,11 @@
 + [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/seoul_lab#readme)
   - 역할 : 데이터 전처리 및 분석, 내용 설명 및 논의
   - python 주요 라이브러리 : pandas, numpy, os
+  - 데이터
+    - 자동차 등록정보 데이터 : 약 3천만 행
+    - 자동차 제원정보 데이터 : 약 50만 행
   - 분석 내용
-    - 전 등급 차량(약 2천6백만대) 배출가스 배출량 계산(CAPSS식 적용)
+    - 전 등급 차량 배출가스 배출량 계산(CAPSS식 적용)
 
 + [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car_big_data2#readme)
   - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
