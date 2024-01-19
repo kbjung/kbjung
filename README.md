@@ -70,8 +70,16 @@
   - 분석 내용
     - 자동차 현황(연료, 지역, 배출가스등급별)
 
-## 💼 (주)원트리즈 뮤직[[상세내용(private)]]()
-- G2B Operation > 데이터 분석 인턴 : 2022.03 ~ 2022.06(약 3개월)
++ [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
+  - 역할 : 데이터 전처리 및 분석
+  - python 주요 라이브러리 : pandas, numpy, os
+  - 분석 내용
+    - 법정동코드, 주소 데이터 전처리
+    - 자동차 지역별 현황
+    - 충전소 대수, 충전량 현황
+
+## (주)원트리즈뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
+- G2B Operation > 데이터 분석 인턴 : 2022.03.02 ~ 06.01(3개월)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - python 주요 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
