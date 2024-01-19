@@ -8,6 +8,7 @@
   - 머신러닝 알고리즘 : Linear, Lasso, Ridge, DecisionTree, RandomForest, Xgboost, Lightgbm, Catboost, Pycaret
   - 텍스트 분석(입문) : nltk, konlpy
   - 딥러닝(입문) : keras, tensorflow, CNN, RNN, GAN
+  - 문서 작업 및 시각화 : PPT, EXCEL, 한글
 
 ---
 # 💼 Work
