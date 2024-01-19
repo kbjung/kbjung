@@ -70,7 +70,8 @@
   - 분석 내용
     - 자동차 현황(연료, 지역, 배출가스등급별)
 
-+ [한국환경공단]월)
+## 💼 (주)원트리즈 뮤직[[상세내용(private)]]()
+- G2B Operation > 데이터 분석 인턴 : 2022.03 ~ 2022.06(약 3개월)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - python 주요 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
