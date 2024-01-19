@@ -14,7 +14,7 @@
 # 💼 Work
 
 ## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
-- 자동차기술연구소 > 연구원 : 2022.11.01 ~ 재직 중
+- 자동차기술연구소 > 연구원 : 2022.11.01 ~ 재직 중(1년이상)
 
 ### ⏳ 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
 + ⏳ [KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing#readme)
@@ -70,16 +70,7 @@
   - 분석 내용
     - 자동차 현황(연료, 지역, 배출가스등급별)
 
-+ [한국환경공단] 저공해차 보급촉진을 위한 제도운영 지원 및 개선방안 마련 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/low_gas_vehicle#readme)
-  - 역할 : 데이터 전처리 및 분석
-  - python 주요 라이브러리 : pandas, numpy, os
-  - 분석 내용
-    - 법정동코드, 주소 데이터 전처리
-    - 자동차 지역별 현황
-    - 충전소 대수, 충전량 현황
-
-## (주)원트리즈뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
-- G2B Operation > 데이터 분석 인턴(2022.03.02 ~ 06.01)
++ [한국환경공단]월)
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - python 주요 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
