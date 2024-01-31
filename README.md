@@ -19,6 +19,7 @@
 ### ⏳ 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
 
 + ⏳ [한국환경공단] 자동차 환경 빅데이터 구축 3차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing/car_big_data3)
+  - 기간 : 2023.09.08 ~ 2024.05.05(총 9개월)
   - 역할
     - 데이터 전처리, 분석
     - 보고서 작성
@@ -33,6 +34,7 @@
 ### ✔ 완료 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete)
 
 + [KEITI] 운행 자동차 배출가스 측정장비 현장실증 기술개발 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing#readme)
+  - 기간 : 2023.11 ~ 2024.01(총 3개월)
   - 역할
     - 데이터 전처리, 분석
     - 컨소사 커뮤니케이션, 이슈 대응
