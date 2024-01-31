@@ -52,13 +52,14 @@
   - 분석 내용
     - 전 등급 차량 배출가스 배출량 계산(CAPSS식 적용)
 
-+ [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car_big_data2#readme)
++ [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car2_exasol#readme)
   - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
   - 역할
     - 데이터 전처리 및 분석
     - 분석 시나리오 논의 및 보고서 작성
     - 컨소사 커뮤니케이션, 이슈 대응
   - python 주요 라이브러리 : pandas, numpy, os, glob, re, datetime
+  - 데이터 : 약 14개 테이블(테이블 당 60만 ~ 1억 행)
   - 분석 내용
     - 분류별 차량 현황 분석, 배출가스 계산, 지역별 차량 현황 분석
     - 저공해 조치 우선지원 지표 개발 및 지원 차량 분석
