@@ -16,8 +16,6 @@
 ## 💼 (주)와보텍[[상세내용(private)]](https://github.com/kbjung/wabotech/tree/main#readme)
 - 자동차기술연구소 > 연구원 : 2022.11.01 ~ 2023.02.29(약 1년 4개월)
 
-### 진행 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing)
-
 + [한국환경공단] 자동차 환경 빅데이터 구축 3차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/processing/car_big_data3)
   - 기간 : 2023.09.08 ~ 2024.05.05(총 9개월)
   - 역할
@@ -42,8 +40,6 @@
     - 원격/통합 측정 전체 차량 통계
     - 원격/통합 측정 경유차량의 매연 및 정밀검사 분석
     - 원격/통합 측정 경유차량의 등록정보, 제원정보 활용 분석
-
-### ✔ 완료 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete)
 
 + [한국환경공단] 자동차 환경 빅데이터 구축 2차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car2_exasol#readme)
   - 기간 : 2022.11.18 ~ 2023.08.17(총 9개월)
