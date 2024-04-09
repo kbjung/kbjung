@@ -55,7 +55,7 @@
     - 차량 현황 예측(Linear, Akima, B-spline)
 
 + [서울 연구원] 배출가스 배출량 계산 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/seoul_lab#readme)
-  - 역할 : 데이터 전처리 및 분석, 내용 설명 및 논의
+  - 역할 : 데이터 전처리 및 분석
   - python 주요 라이브러리 : pandas, numpy, os
   - 데이터
     - 자동차 등록정보 데이터 : 약 3천만 행
