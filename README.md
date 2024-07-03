@@ -2,7 +2,7 @@
 + 이름 : 김범중
 + 기술 🔧
   - 언어 : Python, SQL(초급)
-  - IDE : Jupyter Notebook, Visual Studio code
+  - 에디터 : Jupyter Notebook, Visual Studio code
   - 데이터 수집 & 전처리 : Pandas, Numpy, Selenium, BeautifulSoup
   - 데이터 시각화 : Matplotlib, Seaborn
   - 머신러닝 알고리즘 : Linear, Lasso, Ridge, DecisionTree, RandomForest, Xgboost, Lightgbm, Catboost, Pycaret
