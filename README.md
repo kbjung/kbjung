@@ -171,6 +171,7 @@
 ---
 
 ## 📖 Study [[상세내용]](https://github.com/kbjung/Study#readme)
++ Crawling [[상세보기]](https://github.com/kbjung/Study/tree/main/Crawling#readme)
 + ⏳ SQL [[상세보기]](https://github.com/kbjung/study/tree/main/SQL#readme)
 + AI [[상세내용]](https://github.com/kbjung/Study/tree/main/AI)
   - pytorch [[상세내용]](https://github.com/kbjung/Study/blob/main/AI/README.md)
