@@ -13,6 +13,7 @@
 ### 🏆 경력 및 수상
 + 경력 : 총 1년 9개월
   - (주)와보텍 : 1년 5개월
+    - 
   - (주)원트리즈뮤직 : 4개월
 + 교육
   - 쏘카 AI 엔지니어 육성 부트캠프 : 2022.04 ~ 07(약 3개월)
@@ -35,6 +36,10 @@
 
 ## (주)와보텍[[상세내용]](https://github.com/kbjung/wabotech/tree/main#readme)
 - 자동차기술연구소 > 연구원 : 2022.11 ~ 2024.03(약 1년 5개월)
+- 역할
+  - 자동차 관련 데이터 전처리 및 분석
+  - 데이터 분석 시나리오 논의/고안 및 보고서 작성
+  - 이슈 대응, 커뮤니케이션, 팀 관리
 
 + [한국환경공단] 자동차 환경 빅데이터 구축 3차 [[상세내용]](https://github.com/kbjung/wabotech/tree/main/complete/car_big_data3#readme)
   - 기간 : 2023.09.08 ~ 2024.02.29(약 7개월)(과업 종료일 : 2024.05.05(총 9개월))
@@ -107,6 +112,13 @@
 
 ## (주)원트리즈뮤직 [[상세내용]](https://github.com/kbjung/Wantreez#readme)
 - G2B Operation > 데이터 분석 인턴 : 2022.03 ~ 06(5개월)
+- 역할
+  - 음원 관련 데이터 크롤링 및 전처리, 분석
+  - 음원 관련 데이터 크롤링 자동화 프로그램 개발
+  - 공공기관 홍보 게시글 관련 데이터 크롤링
+  - 공공기관 홍보 게시글 관련 데이터 전처리 및 관련 보고서 작성
+  - 이슈 대응, 커뮤니케이션, 팀 관리
+
 + 🐈 Crawling [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling#readme)
   - 음원사재기 모니터링 [[상세내용]](https://github.com/kbjung/Wantreez/tree/main/Crawling/music#readme)
     - python 주요 라이브러리 : pandas, selenium, beautifulsoup, request, matplotlib, seaborn 등
