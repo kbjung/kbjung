@@ -30,9 +30,16 @@
     - 기간 : 2021.11.10 ~ 11.29 10:00 am
     - 성과 : ✨134등(총 672명), 상위 66%
 ---
+
+# 🏫 대학원 [[상세내용]](https://github.com/kbjung/Study/blob/main/graduate_school/README.md)
++ 바이오시스템융합학과 > 바이오의약 (ai 시스템 구축)
++ 기간 : 2025.07.01 ~ 
++ 업무
+  + ai 시스템 구축 [[상세내용]](https://github.com/kbjung/Study/blob/main/graduate_school/rcsb/README.md)
+  + 공부 [[상세내용]](https://github.com/kbjung/Study/blob/main/graduate_school/study/README.md)
+
+---
 # 💼 Work
-
-
 ## (주)와보텍[[상세내용]](https://github.com/kbjung/wabotech/tree/main#readme)
 - 자동차기술연구소 > 연구원 : 2022.11 ~ 2024.03(약 1년 5개월)
 - 역할
